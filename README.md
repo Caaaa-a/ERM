@@ -9,11 +9,11 @@
 - **分析工具与代码**：提供预处理、数据分析和可视化等代码，帮助用户有效分析教育数据。
 
 ## 安装指南
-本项目的代码库主要基于Python。要开始使用，你需要首先克隆本项目：
+本项目的代码库主要基于Python和C语言。要开始使用，你需要首先克隆本项目：
 
 ```bash
-git clone https://github.com/your-github/education-data-mining.git
-cd education-data-mining
+git clone https://github.com/...
+cd ...
 ```
 
 ## 如何贡献
